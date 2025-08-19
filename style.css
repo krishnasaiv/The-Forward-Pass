@@ -81,3 +81,33 @@ nav a:hover {
   border: 1px solid #dddddd;
   border-radius: 10px;
 }
+/* Update the color scheme to match the reference image */
+body {
+  background-color: #2f4f7f;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+/* Update the navigation bar to match the reference image */
+nav {
+  background-color: #2f4f7f;
+  color: #ffffff;
+  padding: 1em;
+  text-align: center;
+}
+
+/* Update the grid layout to match the reference image */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+/* Update the font to match the reference image */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+}
+
+/* Add any other styles to match the reference image */
